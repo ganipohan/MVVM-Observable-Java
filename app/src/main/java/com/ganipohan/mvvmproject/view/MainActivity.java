@@ -1,4 +1,4 @@
-package com.ganipohan.mvvmproject;
+package com.ganipohan.mvvmproject.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.BindingAdapter;
@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+import com.ganipohan.mvvmproject.R;
 import com.ganipohan.mvvmproject.databinding.ActivityMainBinding;
 import com.ganipohan.mvvmproject.viewModel.ViewModel;
 
