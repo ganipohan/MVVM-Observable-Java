@@ -71,6 +71,5 @@
             android:textStyle="bold"
             bind:toastMessage="@{viewModel.toastMessage}" />
 
-
     </LinearLayout>
 </layout>
